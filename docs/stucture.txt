@@ -1,0 +1,23 @@
+.
+|____assets
+| |____script.js
+| |____style.css
+|____docs
+| |____schema.sql
+| |____stucture.txt
+|____includes
+| |____config.php
+| |____exports
+|____index.php
+|____log
+| |____debug.log
+|____models
+| |____Share.php
+| |____Story.php
+| |____User.php
+|____public
+| |____auth.php
+| |____dashboard.php
+| |____profile.php
+| |____stories.php
+|____generate.py

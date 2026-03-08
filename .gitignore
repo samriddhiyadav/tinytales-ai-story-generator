@@ -1,0 +1,30 @@
+﻿# Secrets
+.env
+.env.*
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# Runtime artifacts
+log/*.log
+includes/exports/*
+!includes/exports/.gitkeep
+public/assets/uploads/*
+!public/assets/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Build
+build/
+dist/
+coverage/
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
