@@ -104,5 +104,18 @@ Primary generation interface is internal Python script execution.
 See [docs/API.md](./docs/API.md) for integration contract.
 
 
+## Deployment Plan
+
+Fastest deployment pattern:
+- **Backend (PHP)**: Render or Railway
+- **Database**: Managed MySQL
+- **AI runtime**: self-hosted Ollama VM/container (or managed inference replacement)
+
+Detailed steps: [docs/DEPLOYMENT.md](./docs/DEPLOYMENT.md)
+
+## Security Notes
+
+See [docs/SECURITY.md](./docs/SECURITY.md) for hardening checklist and secret management requirements.
+
 
 
