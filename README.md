@@ -82,4 +82,15 @@ Store screenshots in `docs/screenshots/`:
 - **Live URL**: `https://<your-demo-url>`
 - **Demo GIF**: `docs/screenshots/demo.gif`
 
+## Installation
+
+1. Clone repo.
+2. Copy `.env.example` to `.env` and set DB/app values.
+3. Import MySQL schema from `docs/schema.sql`.
+4. Ensure Python dependencies are installed (`requests`).
+5. Start Ollama and pull TinyLLaMA model.
+6. Run with XAMPP and open `/tinytales`.
+
+
+
 
