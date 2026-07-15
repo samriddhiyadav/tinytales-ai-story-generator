@@ -125,5 +125,11 @@ See [docs/SECURITY.md](./docs/SECURITY.md) for hardening checklist and secret ma
 - Add observability (structured logs and generation latency tracking).
 - Add content moderation and abuse prevention.
 
+## Contributing
 
+See [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+## License
+
+MIT License - see [LICENSE](./LICENSE).
 
