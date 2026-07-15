@@ -117,5 +117,13 @@ Detailed steps: [docs/DEPLOYMENT.md](./docs/DEPLOYMENT.md)
 
 See [docs/SECURITY.md](./docs/SECURITY.md) for hardening checklist and secret management requirements.
 
+## Future Improvements
+
+- Add queue-based async story generation.
+- Add automated tests for generation and auth flows.
+- Replace local process call with dedicated internal service API.
+- Add observability (structured logs and generation latency tracking).
+- Add content moderation and abuse prevention.
+
 
 
