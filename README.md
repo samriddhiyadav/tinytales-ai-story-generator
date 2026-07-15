@@ -91,6 +91,12 @@ Store screenshots in `docs/screenshots/`:
 5. Start Ollama and pull TinyLLaMA model.
 6. Run with XAMPP and open `/tinytales`.
 
+## Usage
+
+1. Sign in via `public/auth.php`.
+2. Generate story with prompt + genre + word count.
+3. Save and review stories in dashboard/history.
+4. Export selected stories when needed.
 
 
 
